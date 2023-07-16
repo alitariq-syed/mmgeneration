@@ -124,3 +124,4 @@ runs/
 
 # Pytorch Server
 *.mar
+mmcv_full-1.7.1-cp39-cp39-win_amd64.whl
